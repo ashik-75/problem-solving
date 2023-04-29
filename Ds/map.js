@@ -11,3 +11,5 @@ console.log(map);
 for (let entry of map) {
   console.log(entry[1]);
 }
+
+console.log(map);
